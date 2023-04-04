@@ -22,9 +22,8 @@ Hedeflenen sayfa dizaynı şu dosya içerisinde gösterilmiştir: [dizayn dosyas
 Aşağıdaki adımları takip edin.:
 
 - [ ] Repoyu forklayın ve klonlayın.
-- [ ] Canvas'a gidin ve Github URL'sini kopyalayıp gönderim yuvasına yapıştırarak deponuzu bağlayın.
 - [ ] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
-- [ ] konsoldan repo klasörünüze girin ve VS Code'u açmak için . girin.
+- [ ] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
 - [ ] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
 - [ ] Çalışmanızı düzenli commitlerle main branch'e aktarın. gönderdiğiniz URL programınızın en son versiyonuna göndermektedir.
 
