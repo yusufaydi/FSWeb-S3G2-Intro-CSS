@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+h1 {
+    font-family: 'Chealse Market', monospace;
+}
+
+.button {
+    border-radius: 8px;
+    color:#ffff;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    display: inline-block;
+    width: 130px;
+    text-align: center;
+}
+.trip {
+    background-color: #FF764E;
+}
+
+.info {
+    background-color: #5ED3EB;
+}
+
+.compare {
+    background-color: #FFCD69;
+}
+
+footer {
+    background-color: #f9e7dc;
+    padding: 20px;
+}
+
+.footer-img {
+    width: 100%;
+    display:block;
+}
